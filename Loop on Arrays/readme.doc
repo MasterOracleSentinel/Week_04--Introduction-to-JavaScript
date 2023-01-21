@@ -11,3 +11,6 @@ Define a function called arrayFlattener, that accepts a two dimensional array as
 
 arrayFlattener should return a new, one-dimensional array.
 
+Using instanceof
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof
+
