@@ -119,3 +119,59 @@ Submission Instructions:
 Word count: 50-150
 You are encouraged to reply to your fellow learners to continue the conversation. Did you experience the same 
 challenges as your peers? What did you learn from their posts?
+
+
+(4)
+
+GitHub Portfolio Project - Building Your Portfolio
+
+As a junior developer, showcasing your work is a valuable way to break into the software development industry. Building a GitHub portfolio is an important asset as recruiters look to understand your coding experience. A good assortment of projects that are readily available to recruiters and hiring managers will work in your favor as they look to understand your coding abilities. 
+
+Having a well-maintained GitHub portfolio enhances your resume and highlights your strengths as you embark on your software development journey. 
+
+README files: 
+
+Every repository you create should have a README file. This file contains useful information about your project. It is the first file GitHub will show when someone opens your repository. 
+
+While there is no standard README file structure, this file usually includes information such as the following:
+
+Name: The name of the project. This name should be a descriptive, specific name for your project and what it does.  
+Description: A description of the project to let people know what the project is for. A list of features could also be added here as a sub-section. 
+Installation: If needed, you could include steps to help people get started with your project.
+Usage: You can include examples of how to use your project in this section and highlight the expected outcomes. 
+Support: You can tell people where to go for help regarding your project (example: email, Twitter, etc.). 
+Roadmap: This section could include any future fixes or improvements you might be planning for your project. 
+License information: For open source projects, you can describe how they’re licensed.  
+README files have the extension “.md” signifying “markdown”. Similar to HTML, it is a markup language that makes your file more presentable. You can review the markdown guide here Links to an external site.to learn more about the syntax. 
+
+Here’s an example Links to an external site.of a well-formatted and well-maintained README file. 
+
+Instructions:
+
+In this activity, your task is to do the following: 
+
+If you haven’t done so already, create a GitHub account. 
+Add all projects you’ve worked on so far to your GitHub account as repositories (also known as “repos”). You can follow the steps highlighted here Links to an external site.to create a new repository.
+For every repository created in your GitHub, add a README file that explains the purpose of the project and the work you’ve done or plan to do on it. 
+Make a plan to check your projects into GitHub periodically and to keep everything well-organized. 
+In this discussion, submit a link to one repository you created. The repository should include a well-formatted README file. Write a few sentences describing your repository in your discussion post. 
+Look through your peers' posts to get more ideas on how to structure a README.
+Keep in mind that the primary purpose of a portfolio of code is to showcase your programming ability and your understanding of fundamental concepts. During interviews, it can also serve as a catalyst to help navigate technical discussions with more depth. These are the conversations that make a good interview, and discussing familiar code (found in your repository) will be more comfortable than answering other, unanticipated, technical questions.
+
+Your GitHub portfolio is only one way to showcase your skill-set to potential recruiters. But it can be a helpful tool to answer the question “Can you code?” by showing, instead of telling. 
+
+Submission Instructions:
+
+ 
+
+Word count: 50-100
+You are encouraged to reply to your fellow learners to continue the conversation. What do you think of their coding project and README? Did you follow the steps for installation?
+
+
+well put together read-me:
+https://github.com/FortAwesome/Font-Awesome
+
+markdown guide:
+https://www.markdownguide.org/basic-syntax/
+
+
