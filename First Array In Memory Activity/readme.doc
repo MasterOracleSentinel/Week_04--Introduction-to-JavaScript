@@ -1,0 +1,34 @@
+(1)
+
+First Array in Memory Step 1
+
+.push() and .pop() Methods
+
+
+.unshift() and .shift()
+.unshift and .shift are exactly like .push and .pop, except 
+they operate on the first element in the array. .unshift(element) 
+puts a new element in the first position of the array, and .shift() removes the first element in the array.
+
+Additional resources
+MDN: Arrays
+MDN: for Loops
+Task instructions
+Task 1
+Open the file task-01.js under the folder first-array. You'll see a group of functions to work on.
+
+There are six functions, read each comment and write the return statements for each of them.
+
+It's a good practice to console log the results to help figure out what's expected.
+
+(2)
+
+First Array in Memory - Step 2
+
+Arrays - Task 2
+Open the file task-02.js under the folder first-array and your code there.
+
+Given an array of strings (words), write a function that would concatenate all the strings in the array to form a sentence. 
+The words should be separated by a space.
+
+Hint Have extra spaces? Look into using .trim()!
