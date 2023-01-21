@@ -1,0 +1,50 @@
+(1)
+
+Writing Clean Code
+
+STYLE GUIDES: The What, the Why, and the How
+You have now been writing code for a couple of weeks. It's important to introduce some standardization around 
+how you write that code. We have included a style guide that we expect you to follow and use during the entire duration of your course.
+
+Access the style guide here Download here.
+[GitHub Pages](https://pages.github.com/).
+
+
+
+
+Let’s explore our JavaScript style guide now. 
+
+Why is a style guide important for a team? 
+A style guide can help you:
+
+Standardize code across teams
+Read others’ code quickly
+Avoid syntax bugs
+Avoid merge conflicts in GitHub when collaborating
+Make fewer decisions while you are writing code: focus more on logic and less on syntax
+Make your code more predictable and therefore easier to read and write
+What is the best way to know the difference between good code and bad code?
+The best way to know whether code is good or bad is a combination of your own experience writing code and seeing 
+lots of examples of good code. When you write, you must adhere to strict styling standards in order to gain the muscle 
+memory needed to continue these good habits. When looking at code, be sure to find examples that are well-written and clean. 
+When you are just starting you may not know what that is, but rest assured that the examples of code in this course are clean, 
+good examples, and you can start developing your own internal sense of what is good or bad.
+
+You’ll notice that as time goes on, you’ll see code that “smells” or doesn’t feel quite right. While it usually doesn’t come 
+down to a single thing, it often is a combination of inconsistently applied rules and conventions. 
+
+Some additional rules for good, clean, JavaScript code are illustrated here Links to an external site.and here.Links to an external site.
+
+Look over these articles. After you’re done, answer the question below:
+
+What is that something small that you can start doing now, without any additional resources or anyone’s permission, to clean up your own code? 
+
+ 
+
+Submission Instructions:
+
+ 
+
+Word count: 50-100
+You are encouraged to reply to your fellow learners to continue the conversation. What other "small things" did others come up with that 
+you will also adopt? Let them know!
