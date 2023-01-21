@@ -48,3 +48,62 @@ Submission Instructions:
 Word count: 50-100
 You are encouraged to reply to your fellow learners to continue the conversation. What other "small things" did others come up with that 
 you will also adopt? Let them know!
+
+(2)
+
+Explain A Basic Looping Function
+----------------------------------
+
+
+In this exercise, you are going to step through a function and explain, step by step, what happens when the function is called. 
+
+For example, if you have the following function:
+
+function addNumbers(num1, num2) {
+
+  let result = num1 + num2; 
+
+  console.log(result);
+
+}; 
+
+And you call it later as shown below: 
+
+addNumbers(3, 4) 
+
+>>7 
+
+You could explain what’s happening as follows:
+
+The function addNumbers  is called with two arguments, 3 and 4.
+In the second line of the function, a variable called result is set with `let result =`, and points to a value of 3 and 4 added together.
+The values of 3 and 4 were passed by reference into the function because they are primitive types. 
+After that, on line 3, you run the command console.log and pass the variable ‘result’ as an argument.
+The console then prints “7”, as that is the value that ‘result’ points to.
+Then, the function finishes executing, and the variable ‘result’ goes out of existence, as it is a function-scoped variable. 
+Now, explain what is happening, in your own words, when this function is called: 
+
+ 
+
+function subtractNumbers(num1, num2) { 
+
+  let result = num1-num2; 
+
+  console.log(result);
+
+};
+
+subtractNumbers(10, 3) 
+
+Submission Instructions:
+
+ 
+
+Word count: 50-100
+You are encouraged to reply to your peers to continue the conversation. What did you learn from their explanation?
+
+
+
+(3)
+
+
