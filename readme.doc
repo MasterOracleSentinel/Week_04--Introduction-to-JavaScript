@@ -1,0 +1,22 @@
+Week_04--Introduction-to-JavaScript
+
+In Week 4: Introduction to JavaScript you will study foundational programming concepts at a deeper level. 
+While it may feel redundant to what you learned in weeks two and three, this additional practice will solidify 
+your understanding so you can integrate more complex concepts in weeks to come.
+
+This week, you will learn how and when to utilize primitive data types and objects to perform specific operations.
+You will start by learning how scope impacts variables within a function. 
+Next, you will loop through objects and arrays to add data. You will also pass parameters to functions by value 
+and by reference and determine which approach is best for your function. Finally, you will showcase these new
+skills by building a simulation of the Pac-Man game, creating a Pac-Man that opens and closes its mouth and 
+changes direction on screen.
+
+Key activities
+
+Coding Activities
+* First Array in Memory ActivityLinks to an external site.
+* Passing Arguments to Functions ActivityLinks to an external site.
+* Loop on an Array ActivityLinks to an external site.
+
+Coding Assignments
+* Pac-Man Coding AssignmentLinks to an external site.
