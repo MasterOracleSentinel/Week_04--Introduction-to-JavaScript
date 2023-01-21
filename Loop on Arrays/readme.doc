@@ -1,0 +1,13 @@
+Loop on Arrays
+
+Loops on Arrays
+When we have a collection of elements stored in an array and have been asked
+to iterate over it in order to either add or remove or change any of its elements, we use a for-loop.
+
+Task Instructions
+Flattening arrays
+
+Define a function called arrayFlattener, that accepts a two dimensional array as an argument.
+
+arrayFlattener should return a new, one-dimensional array.
+
